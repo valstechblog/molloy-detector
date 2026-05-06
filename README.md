@@ -23,7 +23,7 @@ inspired by [@jencgeo](https://github.com/jencgeo):
 
 ## UI workflow 
 - Recommend running in free local face recognition mode. Also provided an option to use Claude Vision (added API cost estimate) which is untested
-- Upload reference image for facial recognition via `Load Reference Photo` (example provided `assets/reference.molloy.png`
+- Upload reference image for facial recognition via `Load Reference Photo` (example provided `assets/reference-molloy.png`) 
 - Click `start monitoring`, which will monitor your entire screen for reference face / audio trigger 
 - Modify audio play time and detection cooldown via UI `Play for` and `Cooldown` 
 - Modify audio detection triggers, currently hardcoded to not particularly useful strings, in `detector.py:AudioDetector` 
