@@ -7,7 +7,7 @@ Runs a local facial and audio recognition monitoring suite that can be configure
 
 
 ## context 
-inspired by a friend: 
+inspired by [@jencgeo](https://github.com/jencgeo): 
 <img width="442" height="68" alt="Screenshot 2026-05-05 at 5 35 49 PM" src="https://github.com/user-attachments/assets/09661fd0-8049-4030-95cf-c05fb3df5801" />
 
 - "Iwtv": [interview with the vampire](https://www.imdb.com/title/tt3960394/), emmy-nominated tv series on amc based on Anne Rice books 
